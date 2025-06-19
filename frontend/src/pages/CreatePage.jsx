@@ -32,7 +32,7 @@ const CreatePage = () => {
       })
     }
 
-    setNewProduct({ name: '', prine: '', image: '' })
+    setNewProduct({ name: '', price: '', image: '' })
   }
 
   return (
